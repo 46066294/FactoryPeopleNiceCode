@@ -1,0 +1,19 @@
+REFERENCIA PARA PATRON FACTORY
+==============================
+
+https://lalejogg.wordpress.com/2011/06/24/arquitectura-%E2%80%93-patrones-%E2%80%93-factory-factoria-o-fabrica-%E2%80%93-codigo-c/
+
+http://tratandodeentenderlo.blogspot.com.es/2010/02/patrones-de-diseno-factorias.html
+
+https://en.wikipedia.org/wiki/Factory_method_pattern#C.23
+
+http://www.dotnetperls.com/factory
+
+https://msdn.microsoft.com/en-us/library/dd409445.aspx
+
+http://www.arquitecturajava.com/usando-el-patron-factory/
+
+https://msdn.microsoft.com/es-es/library/bb972258.aspx
+
+https://danielggarcia.wordpress.com/2014/02/15/patrones-de-creacion-i-factory-patterns/
+
